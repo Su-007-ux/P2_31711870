@@ -11,7 +11,7 @@ app.get('/', (_req, res) => {
   res.render('index', {
     nombre: 'Jesus Dobles',
     cedula: '31711870',
-    seccion: '01'
+    seccion: '03'
   });
 });
 
